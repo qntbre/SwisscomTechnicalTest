@@ -8,6 +8,7 @@ package local.qbr.ProductManager;
 public class Type {
     private String  typename;
     private Long    id;
+
     public Type(String typename, Long id) {
         this.typename = typename;
         this.id = id;
